@@ -21,11 +21,11 @@ const WohinWoherWo = () => {
   };
 
   const checkAnswer = userAnswer => {
-    const possibleAnswers = randomItem.Objekt.split(' / ');
+    const possibleAnswers = randomItem.preposition.split(' / ');
     if (possibleAnswers.includes(userAnswer.trim())) {
-      setResult('Rechts!');
+      setResult('Rechts! ' + randomItem.preposition);
     } else {
-      setResult('Falsch. Richtige Antworten: ' + randomItem.Objekt);
+      setResult('Falsch. Richtige Antworten: ' + randomItem.preposition);
     }
   };
 
@@ -43,8 +43,8 @@ const WohinWoherWo = () => {
       <form className={css.form} onSubmit={handleSubmit}>
         {randomItem && (
           <>
-            <h1>{randomItem.Frage}</h1>
-            <p>{randomItem.Wohin}</p>
+            <h1>{randomItem.question}</h1>
+            <p>{randomItem.name}</p>
           </>
         )}
         <input
@@ -54,13 +54,19 @@ const WohinWoherWo = () => {
         />
         <button type="submit">Senden</button>
         {submitted && (
-          <p
-            className={
-              result.startsWith('Rechts!') ? css.correct : css.incorrect
-            }
-          >
-            {result}
-          </p>
+          <>
+            <p
+              className={
+                result.startsWith('Rechts!') ? css.correct : css.incorrect
+              }
+            >
+              {result}
+              <br />
+            </p>
+            {randomItem.answer && (
+              <span>Richtige Antwort: {randomItem.answer}</span>
+            )}
+          </>
         )}
         <button type="button" onClick={chooseRandomItem}>
           Weiter

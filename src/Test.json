@@ -1,92 +1,644 @@
 [
   {
-    "Frage": "Wohin?",
-    "Wohin": "die Schule",
-    "Objekt": "in die / zur"
+    "question": "Wohin",
+    "name": "die Post",
+    "preposition": "zur",
+    "answer": "Er geht zur Post."
   },
   {
-    "Frage": "Wohin?",
-    "Wohin": "der Park",
-    "Objekt": "in den / zum"
+    "question": "Wohin",
+    "name": "Portugal",
+    "preposition": "nach",
+    "answer": "Sie fahren nach Portugal."
   },
   {
-    "Frage": "Wohin?",
-    "Wohin": "das Konzert",
-    "Objekt": "ins / zum"
+    "question": "Wohin",
+    "name": "Köln",
+    "preposition": "nach",
+    "answer": "Wir fahren nach Köln."
   },
   {
-    "Frage": "Wohin?",
-    "Wohin": "der Bahnhof",
-    "Objekt": "zum"
+    "question": "Wohin",
+    "name": "das Museum",
+    "preposition": "ins / zum",
+    "answer": "Er geht ins Museum / Er geht zum Museum."
   },
   {
-    "Frage": "Wohin?",
-    "Wohin": "der Markt",
-    "Objekt": "auf den"
+    "question": "Wohin",
+    "name": "der Freund",
+    "preposition": "zum",
+    "answer": "Sie geht zum Freund."
   },
   {
-    "Frage": "Wohin?",
-    "Wohin": "das Restaurant",
-    "Objekt": "ins / zum"
+    "question": "Wohin",
+    "name": "der Zoo",
+    "preposition": "zum",
+    "answer": "Die Familie geht zum Zoo."
   },
   {
-    "Frage": "Wohin?",
-    "Wohin": "der Wald",
-    "Objekt": "in den"
+    "question": "Wohin",
+    "name": "die Kirche",
+    "preposition": "zur",
+    "answer": "Sie geht zur Kirche."
   },
   {
-    "Frage": "Wohin?",
-    "Wohin": "das Schwimmbad",
-    "Objekt": "ins / zum"
+    "question": "Wohin",
+    "name": "Griechenland",
+    "preposition": "nach",
+    "answer": "Wir reisen nach Griechenland."
   },
   {
-    "Frage": "Wohin?",
-    "Wohin": "das Museum",
-    "Objekt": "ins / zum"
+    "question": "Wohin",
+    "name": "Dresden",
+    "preposition": "nach",
+    "answer": "Er fährt nach Dresden."
   },
   {
-    "Frage": "Wohin?",
-    "Wohin": "der Flughafen",
-    "Objekt": "zum"
+    "question": "Wohin",
+    "name": "das Schwimmbad",
+    "preposition": "ins / zum",
+    "answer": "Sie geht ins Schwimmbad / Sie geht zum Schwimmbad."
   },
   {
-    "Frage": "Wohin?",
-    "Wohin": "die Bibliothek",
-    "Objekt": "in die / zur"
+    "question": "Wohin",
+    "name": "das Schwimmbad",
+    "preposition": "ins / zum",
+    "answer": "Sie geht ins Schwimmbad / Sie geht zum Schwimmbad."
   },
   {
-    "Frage": "Wohin?",
-    "Wohin": "die Kirche",
-    "Objekt": "in die / zur"
+    "question": "Wohin",
+    "name": "der Direktor",
+    "preposition": "zum",
+    "answer": "Der Lehrer geht zum Direktor."
   },
   {
-    "Frage": "Wohin?",
-    "Wohin": "der Zoo",
-    "Objekt": "in den / zum"
+    "question": "Wohin",
+    "name": "Peter",
+    "preposition": "zu",
+    "answer": "Ich gehe zu Peter."
   },
   {
-    "Frage": "Wohin?",
-    "Wohin": "die Bank",
-    "Objekt": "zur"
+    "question": "Wohin",
+    "name": "der Garten",
+    "preposition": "zum",
+    "answer": "Die Kinder gehen zum Garten."
   },
   {
-    "Frage": "Wohin?",
-    "Wohin": "das Fitnessstudio",
-    "Objekt": "ins / zum"
+    "question": "Wohin",
+    "name": "die Bank",
+    "preposition": "zur",
+    "answer": "Er geht zur Bank."
   },
   {
-    "Frage": "Wohin?",
-    "Wohin": "die Apotheke",
-    "Objekt": "zur"
+    "question": "Wohin",
+    "name": "Türkei",
+    "preposition": "nach",
+    "answer": "Sie fliegen nach Türkei."
   },
   {
-    "Frage": "Wohin?",
-    "Wohin": "das Krankenhaus",
-    "Objekt": "ins / zum"
+    "question": "Wohin",
+    "name": "Stuttgart",
+    "preposition": "nach",
+    "answer": "Wir fahren nach Stuttgart."
   },
   {
-    "Frage": "Wohin?",
-    "Wohin": "die Post",
-    "Objekt": "zur"
+    "question": "Wohin",
+    "name": "das Fitnessstudio",
+    "preposition": "ins / zum",
+    "answer": "Er geht ins Fitnessstudio / Er geht zum Fitnessstudio."
+  },
+  {
+    "question": "Wohin",
+    "name": "der Kunde",
+    "preposition": "zum",
+    "answer": "Der Verkäufer geht zum Kunden."
+  },
+  {
+    "question": "Wohin",
+    "name": "der Supermarkt",
+    "preposition": "zum",
+    "answer": "Ich gehe zum Supermarkt."
+  },
+  {
+    "question": "Wohin",
+    "name": "die Schule",
+    "preposition": "zur",
+    "answer": "Sie geht zur Schule."
+  },
+  {
+    "question": "Wohin",
+    "name": "Spanien",
+    "preposition": "nach",
+    "answer": "Wir fahren nach Spanien."
+  },
+  {
+    "question": "Wohin",
+    "name": "Hamburg",
+    "preposition": "nach",
+    "answer": "Er fliegt nach Hamburg."
+  },
+  {
+    "question": "Wohin",
+    "name": "das Restaurant",
+    "preposition": "ins / zum",
+    "answer": "Sie geht ins Restaurant / Sie geht zum Restaurant."
+  },
+  {
+    "question": "Wohin",
+    "name": "der Arzt",
+    "preposition": "zum",
+    "answer": "Der Patient geht zum Arzt."
+  },
+  {
+    "question": "Wohin",
+    "name": "Lisa",
+    "preposition": "zu",
+    "answer": "Ich gehe zu Lisa."
+  },
+  {
+    "question": "Wohin",
+    "name": "der Bahnhof",
+    "preposition": "zum",
+    "answer": "Ich gehe zum Bahnhof."
+  },
+  {
+    "question": "Wohin",
+    "name": "Lisa",
+    "preposition": "zu",
+    "answer": "Ich gehe zu Lisa."
+  },
+  {
+    "question": "Wohin",
+    "name": "der Bahnhof",
+    "preposition": "zum",
+    "answer": "Ich gehe zum Bahnhof."
+  },
+  {
+    "question": "Wohin",
+    "name": "die Post",
+    "preposition": "zur",
+    "answer": "Er geht zur Post."
+  },
+  {
+    "question": "Wohin",
+    "name": "Portugal",
+    "preposition": "nach",
+    "answer": "Sie fahren nach Portugal."
+  },
+  {
+    "question": "Wohin",
+    "name": "der Supermarkt",
+    "preposition": "zum",
+    "answer": "Ich gehe zum Supermarkt."
+  },
+  {
+    "question": "Wohin",
+    "name": "die Bibliothek",
+    "preposition": "zur",
+    "answer": "Er geht zur Bibliothek."
+  },
+  {
+    "question": "Wohin",
+    "name": "Italien",
+    "preposition": "nach",
+    "answer": "Sie fahren nach Italien."
+  },
+  {
+    "question": "Wohin",
+    "name": "Berlin",
+    "preposition": "nach",
+    "answer": "Wir fliegen nach Berlin."
+  },
+  {
+    "question": "Wohin",
+    "name": "das Kino",
+    "preposition": "ins / zum",
+    "answer": "Er geht ins Kino / Er geht zum Kino."
+  },
+  {
+    "question": "Wohin",
+    "name": "der Chef",
+    "preposition": "zum",
+    "answer": "Der Mitarbeiter geht zum Chef."
+  },
+  {
+    "question": "Wohin",
+    "name": "Anna",
+    "preposition": "zu",
+    "answer": "Ich gehe zu Anna."
+  },
+  {
+    "question": "Wohin",
+    "name": "der Park",
+    "preposition": "zum",
+    "answer": "Die Kinder gehen zum Park."
+  },
+  {
+    "question": "Wohin",
+    "name": "die Schule",
+    "preposition": "zur",
+    "answer": "Sie geht zur Schule."
+  },
+  {
+    "question": "Wohin",
+    "name": "Spanien",
+    "preposition": "nach",
+    "answer": "Wir fahren nach Spanien."
+  },
+  {
+    "question": "Wohin",
+    "name": "Hamburg",
+    "preposition": "nach",
+    "answer": "Er fliegt nach Hamburg."
+  },
+  {
+    "question": "Wohin",
+    "name": "das Restaurant",
+    "preposition": "ins / zum",
+    "answer": "Sie geht ins Restaurant / Sie geht zum Restaurant."
+  },
+  {
+    "question": "Wohin",
+    "name": "der Arzt",
+    "preposition": "zum",
+    "answer": "Der Patient geht zum Arzt."
+  },
+  {
+    "question": "Wohin",
+    "name": "Lisa",
+    "preposition": "zu",
+    "answer": "Ich gehe zu Lisa."
+  },
+  {
+    "question": "Wohin",
+    "name": "der Bahnhof",
+    "preposition": "zum",
+    "answer": "Ich gehe zum Bahnhof."
+  },
+  {
+    "question": "Wohin",
+    "name": "die Post",
+    "preposition": "zur",
+    "answer": "Er geht zur Post."
+  },
+  {
+    "question": "Wohin",
+    "name": "Portugal",
+    "preposition": "nach",
+    "answer": "Sie fahren nach Portugal."
+  },
+  {
+    "question": "Wohin",
+    "name": "Köln",
+    "preposition": "nach",
+    "answer": "Wir fahren nach Köln."
+  },
+  {
+    "question": "Wohin",
+    "name": "das Museum",
+    "preposition": "ins / zum",
+    "answer": "Er geht ins Museum / Er geht zum Museum."
+  },
+  {
+    "question": "Wohin",
+    "name": "der Freund",
+    "preposition": "zum",
+    "answer": "Sie geht zum Freund."
+  },
+  {
+    "question": "Wohin",
+    "name": "der Zoo",
+    "preposition": "zum",
+    "answer": "Die Familie geht zum Zoo."
+  },
+  {
+    "question": "Wohin",
+    "name": "die Kirche",
+    "preposition": "zur",
+    "answer": "Sie geht zur Kirche."
+  },
+  {
+    "question": "Wohin",
+    "name": "Griechenland",
+    "preposition": "nach",
+    "answer": "Wir reisen nach Griechenland."
+  },
+  {
+    "question": "Wohin",
+    "name": "Dresden",
+    "preposition": "nach",
+    "answer": "Er fährt nach Dresden."
+  },
+  {
+    "question": "Wohin",
+    "name": "der Bahnhof",
+    "preposition": "zum",
+    "answer": "Ich gehe zum Bahnhof."
+  },
+  {
+    "question": "Wohin",
+    "name": "die Post",
+    "preposition": "zur",
+    "answer": "Er geht zur Post."
+  },
+  {
+    "question": "Wohin",
+    "name": "Portugal",
+    "preposition": "nach",
+    "answer": "Sie fahren nach Portugal."
+  },
+  {
+    "question": "Wohin",
+    "name": "Köln",
+    "preposition": "nach",
+    "answer": "Wir fahren nach Köln."
+  },
+  {
+    "question": "Wohin",
+    "name": "das Museum",
+    "preposition": "ins / zum",
+    "answer": "Er geht ins Museum / Er geht zum Museum."
+  },
+  {
+    "question": "Wohin",
+    "name": "der Freund",
+    "preposition": "zum",
+    "answer": "Sie geht zum Freund."
+  },
+  {
+    "question": "Wohin",
+    "name": "der Zoo",
+    "preposition": "zum",
+    "answer": "Die Familie geht zum Zoo."
+  },
+  {
+    "question": "Wohin",
+    "name": "die Kirche",
+    "preposition": "zur",
+    "answer": "Sie geht zur Kirche."
+  },
+  {
+    "question": "Wohin",
+    "name": "Griechenland",
+    "preposition": "nach",
+    "answer": "Wir reisen nach Griechenland."
+  },
+  {
+    "question": "Wohin",
+    "name": "Dresden",
+    "preposition": "nach",
+    "answer": "Er fährt nach Dresden."
+  },
+  {
+    "question": "Wohin",
+    "name": "das Schwimmbad",
+    "preposition": "ins / zum",
+    "answer": "Sie geht ins Schwimmbad / Sie geht zum Schwimmbad."
+  },
+  {
+    "question": "Wohin",
+    "name": "der Direktor",
+    "preposition": "zum",
+    "answer": "Der Lehrer geht zum Direktor."
+  },
+  {
+    "question": "Wohin",
+    "name": "Peter",
+    "preposition": "zu",
+    "answer": "Ich gehe zu Peter."
+  },
+  {
+    "question": "Wohin",
+    "name": "der Garten",
+    "preposition": "zum",
+    "answer": "Die Kinder gehen zum Garten."
+  },
+  {
+    "question": "Wohin",
+    "name": "die Bank",
+    "preposition": "zur",
+    "answer": "Er geht zur Bank."
+  },
+  {
+    "question": "Wohin",
+    "name": "Türkei",
+    "preposition": "nach",
+    "answer": "Sie fliegen nach Türkei."
+  },
+  {
+    "question": "Wohin",
+    "name": "Stuttgart",
+    "preposition": "nach",
+    "answer": "Wir fahren nach Stuttgart."
+  },
+  {
+    "question": "Wohin",
+    "name": "das Theater",
+    "preposition": "ins / zum",
+    "answer": "Sie geht ins Theater / Sie geht zum Theater."
+  },
+  {
+    "question": "Wohin",
+    "name": "der Zahnarzt",
+    "preposition": "zum",
+    "answer": "Der Patient geht zum Zahnarzt."
+  },
+  {
+    "question": "Wohin",
+    "name": "Julia",
+    "preposition": "zu",
+    "answer": "Ich gehe zu Julia."
+  },
+  {
+    "question": "Wohin",
+    "name": "der Flughafen",
+    "preposition": "zum",
+    "answer": "Ich fahre zum Flughafen."
+  },
+  {
+    "question": "Wohin",
+    "name": "die Apotheke",
+    "preposition": "zur",
+    "answer": "Er geht zur Apotheke."
+  },
+  {
+    "question": "Wohin",
+    "name": "Ägypten",
+    "preposition": "nach",
+    "answer": "Sie reisen nach Ägypten."
+  },
+  {
+    "question": "Wohin",
+    "name": "Leipzig",
+    "preposition": "nach",
+    "answer": "Wir fahren nach Leipzig."
+  },
+  {
+    "question": "Wohin",
+    "name": "das Fitnessstudio",
+    "preposition": "ins / zum",
+    "answer": "Er geht ins Fitnessstudio / Er geht zum Fitnessstudio."
+  },
+  {
+    "question": "Wohin",
+    "name": "der Kunde",
+    "preposition": "zum",
+    "answer": "Der Verkäufer geht zum Kunden."
+  },
+  {
+    "question": "Wohin",
+    "name": "der Supermarkt",
+    "preposition": "zum",
+    "answer": "Ich gehe zum Supermarkt."
+  },
+  {
+    "question": "Wohin",
+    "name": "die Schule",
+    "preposition": "zur",
+    "answer": "Sie geht zur Schule."
+  },
+  {
+    "question": "Wohin",
+    "name": "Spanien",
+    "preposition": "nach",
+    "answer": "Wir fahren nach Spanien."
+  },
+  {
+    "question": "Wohin",
+    "name": "Hamburg",
+    "preposition": "nach",
+    "answer": "Er fliegt nach Hamburg."
+  },
+  {
+    "question": "Wohin",
+    "name": "das Restaurant",
+    "preposition": "ins / zum",
+    "answer": "Sie geht ins Restaurant / Sie geht zum Restaurant."
+  },
+  {
+    "question": "Wohin",
+    "name": "der Arzt",
+    "preposition": "zum",
+    "answer": "Der Patient geht zum Arzt."
+  },
+  {
+    "question": "Wohin",
+    "name": "der Supermarkt",
+    "answer": "zum",
+    "example": "Ich gehe zum Supermarkt."
+  },
+  {
+    "question": "Wohin",
+    "name": "die Bibliothek",
+    "answer": "zur",
+    "example": "Er geht zur Bibliothek."
+  },
+  {
+    "question": "Wohin",
+    "name": "Italien",
+    "answer": "nach",
+    "example": "Sie fahren nach Italien."
+  },
+  {
+    "question": "Wohin",
+    "name": "Berlin",
+    "answer": "nach",
+    "example": "Wir fliegen nach Berlin."
+  },
+  {
+    "question": "Wohin",
+    "name": "das Kino",
+    "answer": "ins / zum",
+    "example": "Er geht ins Kino / Er geht zum Kino."
+  },
+  {
+    "question": "Wohin",
+    "name": "der Chef",
+    "answer": "zum",
+    "example": "Der Mitarbeiter geht zum Chef."
+  },
+  {
+    "question": "Wohin",
+    "name": "Anna",
+    "answer": "zu",
+    "example": "Ich gehe zu Anna."
+  },
+  {
+    "question": "Wohin",
+    "name": "der Park",
+    "answer": "zum",
+    "example": "Die Kinder gehen zum Park."
+  },
+  {
+    "question": "Wohin",
+    "name": "die Schule",
+    "answer": "zur",
+    "example": "Sie geht zur Schule."
+  },
+  {
+    "question": "Wohin",
+    "name": "Spanien",
+    "answer": "nach",
+    "example": "Wir fahren nach Spanien."
+  },
+  {
+    "question": "Wohin",
+    "name": "Hamburg",
+    "answer": "nach",
+    "example": "Er fliegt nach Hamburg."
+  },
+  {
+    "question": "Wohin",
+    "name": "das Restaurant",
+    "answer": "ins / zum",
+    "example": "Sie geht ins Restaurant / Sie geht zum Restaurant."
+  },
+  {
+    "question": "Wohin",
+    "name": "der Arzt",
+    "answer": "zum",
+    "example": "Der Patient geht zum Arzt."
+  },
+  {
+    "question": "Wohin",
+    "name": "Lisa",
+    "answer": "zu",
+    "example": "Ich gehe zu Lisa."
+  },
+  {
+    "question": "Wohin",
+    "name": "der Bahnhof",
+    "answer": "zum",
+    "example": "Ich gehe zum Bahnhof."
+  },
+  {
+    "question": "Wohin",
+    "name": "die Post",
+    "answer": "zur",
+    "example": "Er geht zur Post."
+  },
+  {
+    "question": "Wohin",
+    "name": "Portugal",
+    "answer": "nach",
+    "example": "Sie fahren nach Portugal."
+  },
+  {
+    "question": "Wohin",
+    "name": "Köln",
+    "answer": "nach",
+    "example": "Wir fahren nach Köln."
+  },
+  {
+    "question": "Wohin",
+    "name": "das Museum",
+    "answer": "ins / zum",
+    "example": "Er geht ins Museum / Er geht zum Museum."
+  },
+  {
+    "question": "Wohin",
+    "name": "der Freund",
+    "answer": "zum",
+    "example": "Sie geht zum Freund."
   }
 ]
