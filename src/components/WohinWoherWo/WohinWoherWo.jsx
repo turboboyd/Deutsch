@@ -53,7 +53,7 @@ const WohinWoherWo = () => {
         {submitted && (
           <p
             className={
-              result.startsWith('Правильно') ? css.correct : css.incorrect
+              result.startsWith('Rechts!') ? css.correct : css.incorrect
             }
           >
             {result}
