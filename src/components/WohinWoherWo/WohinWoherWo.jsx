@@ -8,8 +8,6 @@ const WohinWoherWo = () => {
   const [randomItem, setRandomItem] = useState(null);
   const [submitted, setSubmitted] = useState(false);
 
-  console.log(data);
-
   useEffect(() => {
     chooseRandomItem();
   }, []);
