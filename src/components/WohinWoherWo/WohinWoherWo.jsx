@@ -31,6 +31,9 @@ const WohinWoherWo = () => {
 
   const handleSubmit = event => {
     event.preventDefault();
+    if (inputValue.trim() === '') {
+      return;
+    }
     checkAnswer(inputValue);
     setSubmitted(true);
   };
