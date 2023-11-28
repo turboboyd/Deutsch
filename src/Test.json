@@ -51,11 +51,6 @@
   },
   {
     "Frage": "Wohin?",
-    "Wohin": "der See",
-    "Objekt": "an den"
-  },
-  {
-    "Frage": "Wohin?",
     "Wohin": "die Bibliothek",
     "Objekt": "in die / zur"
   },
@@ -63,11 +58,6 @@
     "Frage": "Wohin?",
     "Wohin": "die Kirche",
     "Objekt": "in die / zur"
-  },
-  {
-    "Frage": "Wohin?",
-    "Wohin": "die Universität",
-    "Objekt": "an die / zur"
   },
   {
     "Frage": "Wohin?",

@@ -34,7 +34,7 @@ const WohinWoherWo = () => {
     if (inputValue.trim() === '') {
       return;
     }
-    checkAnswer(inputValue);
+    checkAnswer(inputValue.toLowerCase());
     setSubmitted(true);
   };
 
